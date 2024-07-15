@@ -1,3 +1,13 @@
+---
+title: Multimodal AI Assistant
+emoji: 🤖
+colorFrom: blue
+colorTo: teal
+sdk: streamlit
+sdk_version: 1.36.0
+app_file: python main.py
+pinned: false
+---
 
 # Multimodal AI Assistant
 
