@@ -1,0 +1,11 @@
+SpeechRecognition # Recognizes speech using various speech recognition engines and APIs
+pipwin # Simplifies the installation of precompiled Windows binaries for Python libraries
+pyaudio # Enables audio input/output operations by interfacing with the PortAudio library
+gTTS # Allows text-to-speech conversion using the Google Text-to-Speech API
+google-generativeai  # Provides tools for interacting with Google's generative AI services
+python-dotenv # Loads environment variables from a .env file into the environment
+streamlit
+markdown
+-e . # executes those folder have __init__.py to get local requirements apart from global requirements mentioned in requirements.txt
+
+#At backend requirements.txt will call setup.py as meta data of this local package where __init__.py is available.
