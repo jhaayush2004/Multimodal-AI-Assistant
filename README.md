@@ -146,6 +146,7 @@ The Multilingual AI Assistant project leverages cutting-edge technologies to pro
 - Finally, run the server `python app.py` .
 - If facing issues, message me on [LinkedIn](https://www.linkedin.com/in/ayush-shaurya-jha-949732214/?original_referer=https%3A%2F%2Fin%2Elinkedin%2Ecom%2F&originalSubdomain=in) .
 ## Do visit 
+ - [Live demo video of project](https://youtu.be/y87o11ayRFk)
  - [Google’s Gemini 1.5 Pro](https://medium.com/google-cloud/googles-gemini-1-5-pro-revolutionizing-ai-with-a-1m-token-context-window-bfea5adfd35f)
  - [Google AI Studio](https://ai.google.dev/aistudio)
  
